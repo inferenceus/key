@@ -1,10 +1,9 @@
 XMPP
-Version: 0.0.1.2
+Version: 0.0.2.3
 
 
 You can also find my keys on my website (https://inferencium.net/key) and
-Codeberg (https://codeberg.org/inference/key) in order to check for
-discrepencies between the keys.
+Codeberg (https://codeberg.org/inference/key) in order to check for discrepencies between the keys.
 
 
 Whenever possible, open the links to pin the fingerprints directly from this file. If that is not
@@ -12,6 +11,7 @@ possible, manually verify the fingerprints.
 
 
 inference@inferencium.net
+
 
 Key #0
 
