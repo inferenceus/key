@@ -1,6 +1,6 @@
 = SSH
 
-Version: 0.0.2.2
+Version: 1.0.0.3
 
 
 You can also find my keys on my https://inferencium.net/key[website] and https://codeberg.org/inference/key[Codeberg] in
