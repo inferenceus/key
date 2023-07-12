@@ -1,10 +1,10 @@
 = SSH
 
-Version: 1.0.0.3
+Version: 1.0.0.4
 
 
 You can also find my keys on my https://inferencium.net/key[website] and https://codeberg.org/inference/key[Codeberg] in
-order to check for discrepencies between the keys.
+order to check for discrepancies between the keys.
 
 
 == Fingerprint
