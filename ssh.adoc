@@ -1,6 +1,6 @@
 = SSH
 
-Version: 1.0.0.4
+Version: 1.0.1.5
 
 
 You can also find my keys on my https://inferencium.net/key[website] and https://codeberg.org/inference/key[Codeberg] in
@@ -8,7 +8,9 @@ order to check for discrepancies between the keys.
 
 
 == Fingerprint
+
 SHA256:9Pl0nZ2UJacgm+IeEtLSZ4FOESgP1eKCtRflfPfdX9M
 
 == Key
+
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINs8UH2hVmNSg0qKig/9ZQt07IuOHsorRfw1doEgMuJ8
