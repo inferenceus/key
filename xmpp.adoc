@@ -1,6 +1,6 @@
 = XMPP
 
-Version: 1.0.0.9
+Version: 1.0.0.10
 
 
 You can also find my keys on my https://inferencium.net/key[website] and https://codeberg.org/inference/key[Codeberg] in
@@ -11,7 +11,7 @@ Whenever possible, open the links to pin the fingerprints directly from this fil
 verify the fingerprints.
 
 
-== \inference@inferencium.net
+== \inference@inferencium.net (Main)
 
 === Key #0
 
@@ -26,7 +26,7 @@ link:xmpp:inference@inferencium.net?omemo-sid-1586888206=1bd03c6a5e0116552fafd69
 link:xmpp:inference@inferencium.net?omemo-sid-336821633=bf2aa0692bb90210aee7e17ce3d90127cfe3502a6450f8abe76dbbb0e5864b7a[]
 
 
-== \inference@notyour.chat
+== \inference@notyour.chat (Backup)
 
 === Key #0
 
