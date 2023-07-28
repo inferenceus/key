@@ -1,16 +1,36 @@
 = SSH
 
-Version: 1.1.0.6
+Version: 1.1.0.7
 
 
 You can also find my keys on my https://inferencium.net/key[website] and
 https://codeberg.org/inference/key[Codeberg] in order to check for discrepancies between the keys.
 
 
-== Fingerprint
+Each SSH key is signed by the previous key, allowing verification of the chain of keys, and root of
+trust.
+
+
+Current SSH key:
+
+== #1 (Used from 2023-07-27)
+
+=== Fingerprint
+
+SHA256:FtEVfx1CmTKMy40VwZvF4k+3TC+QhCWy+EmPRg50Nnc
+
+=== Key
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILHPGnrIg7dI7GUqA+lTztJSrn+7QyRceajqs4iaU8UG
+
+Legacy SSH keys:
+
+== #0 (Used between 2023-01-01 - 2023-07-27)
+
+=== Fingerprint
 
 SHA256:9Pl0nZ2UJacgm+IeEtLSZ4FOESgP1eKCtRflfPfdX9M
 
-== Key
+=== Key
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINs8UH2hVmNSg0qKig/9ZQt07IuOHsorRfw1doEgMuJ8
