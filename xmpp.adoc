@@ -1,14 +1,13 @@
 = XMPP
 
-Version: 1.1.0.11
+Version: 2.0.0-alpha.1
 
 
 You can also find my keys on my https://inferencium.net/key[website] and
 https://codeberg.org/inference/key[Codeberg] in order to check for discrepancies between the keys.
 
-
-Whenever possible, open the links to pin the fingerprints directly from this file. If that is not possible, manually
-verify the fingerprints.
+Whenever possible, open the links to pin the fingerprints directly from this file. If that is not
+possible, manually verify the fingerprints.
 
 
 == \inference@inferencium.net (Main)
