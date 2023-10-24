@@ -1,6 +1,6 @@
 = XMPP
 
-Version: 2.0.0-alpha.2
+Version: 2.0.0-alpha.3
 
 
 You can also find my keys on my https://inferencium.net/key[website] and
@@ -25,12 +25,6 @@ link:xmpp:inference@inferencium.net?omemo-sid-1641576775=67ee49da37bcc392691d915
 `1bd03c6a 5e011655 2fafd697 da4fce70 63de5a83 a264a34a fcce78fe 6b06820c`
 
 link:xmpp:inference@inferencium.net?omemo-sid-1586888206=1bd03c6a5e0116552fafd697da4fce7063de5a83a264a34afcce78fe6b06820c[]
-
-==== Key #1
-
-`bf2aa069 2bb90210 aee7e17c e3d90127 cfe3502a 6450f8ab e76dbbb0 e5864b7a`
-
-link:xmpp:inference@inferencium.net?omemo-sid-336821633=bf2aa0692bb90210aee7e17ce3d90127cfe3502a6450f8abe76dbbb0e5864b7a[]
 
 == \inference@notyour.chat (Backup)
 
